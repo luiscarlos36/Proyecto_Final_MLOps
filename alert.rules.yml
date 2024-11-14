@@ -1,0 +1,11 @@
+groups:
+  - name: example_alerts
+    rules:
+      - alert: HighRMSE
+        expr: rmse > 50
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          description: "El RMSE ha superado el umbral de 50."
+          summary: "Alerta de alta RMSE"

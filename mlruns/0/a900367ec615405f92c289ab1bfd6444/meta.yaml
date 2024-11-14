@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Echidna/Documents/PROYECTO%20FINAL%20MLOPS/mlruns/0/a900367ec615405f92c289ab1bfd6444/artifacts
+end_time: 1731430531725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a900367ec615405f92c289ab1bfd6444
+run_name: delightful-mule-500
+run_uuid: a900367ec615405f92c289ab1bfd6444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731430522990
+status: 3
+tags: []
+user_id: Echidna
